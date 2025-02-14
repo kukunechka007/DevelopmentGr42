@@ -9,5 +9,6 @@ public class DevelopmentGr42Application {
     public static void main(String[] args) {
         SpringApplication.run(DevelopmentGr42Application.class, args);
     }
+    // просто комментарий
 
 }
